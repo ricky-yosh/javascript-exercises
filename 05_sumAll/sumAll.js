@@ -17,7 +17,5 @@ const sumAll = function(startingNum, endingNum) {
     return finalSum;
 };
 
-sumAll(-10, 4)
-
 // Do not edit below this line
 module.exports = sumAll;
